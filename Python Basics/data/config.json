@@ -1,0 +1,16 @@
+{
+    "app_name": "MyPythonApp",
+    "version": "1.0.0",
+    "debug": false,
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "name": "mydb"
+    },
+    "features": {
+        "dark_mode": true,
+        "notifications": true,
+        "auto_save": false
+    },
+    "allowed_users": ["admin", "editor", "viewer"]
+}
