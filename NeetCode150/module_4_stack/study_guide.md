@@ -5,6 +5,7 @@ The Stack data structure enforces a **Last-In, First-Out (LIFO)** invariant. It 
 ---
 
 ## 1. Valid Parentheses (LeetCode 20) - Easy
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/valid-parentheses/) • [NeetCode Problem](https://neetcode.io/problems/validate-parentheses) • [NeetCode Solution](https://neetcode.io/solutions/valid-parentheses) • [YouTube Video](https://www.youtube.com/watch?v=WTzjTskDFMg)
 * **Pattern**: LIFO Matching with Closing-to-Opening Map
 * **Core Concept**:
   Every opening bracket must be closed by the same type in reverse order of appearance.
@@ -19,6 +20,7 @@ The Stack data structure enforces a **Last-In, First-Out (LIFO)** invariant. It 
 ---
 
 ## 2. Min Stack (LeetCode 155) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/min-stack/) • [NeetCode Problem](https://neetcode.io/problems/minimum-stack) • [NeetCode Solution](https://neetcode.io/solutions/min-stack) • [YouTube Video](https://www.youtube.com/watch?v=qkLl7nAwDPo)
 * **Pattern**: Stack of Pairs / Parallel Min-Tracking
 * **Core Concept**:
   Achieve $O(1)$ time for `push`, `pop`, `top`, and `getMin`.
@@ -33,6 +35,7 @@ The Stack data structure enforces a **Last-In, First-Out (LIFO)** invariant. It 
 ---
 
 ## 3. Evaluate Reverse Polish Notation (LeetCode 150) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) • [NeetCode Problem](https://neetcode.io/problems/evaluate-reverse-polish-notation) • [NeetCode Solution](https://neetcode.io/solutions/evaluate-reverse-polish-notation) • [YouTube Video](https://www.youtube.com/watch?v=iu0082c4HDE)
 * **Pattern**: Postfix Stack Evaluation
 * **Core Concept**:
   In postfix notation, operators follow their operands. Push numbers onto the stack. When an operator arrives, pop the two most recent numbers, apply the operator, and push the result back.
@@ -48,6 +51,7 @@ The Stack data structure enforces a **Last-In, First-Out (LIFO)** invariant. It 
 ---
 
 ## 4. Generate Parentheses (LeetCode 22) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/generate-parentheses/) • [NeetCode Problem](https://neetcode.io/problems/generate-parentheses) • [NeetCode Solution](https://neetcode.io/solutions/generate-parentheses) • [YouTube Video](https://www.youtube.com/watch?v=s9fokUqJ76A)
 * **Pattern**: Backtracking with Catalan Invariants
 * **Core Concept**:
   Generate all valid combinations of $n$ pairs of parentheses.
@@ -64,6 +68,7 @@ The Stack data structure enforces a **Last-In, First-Out (LIFO)** invariant. It 
 ---
 
 ## 5. Daily Temperatures (LeetCode 739) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/daily-temperatures/) • [NeetCode Problem](https://neetcode.io/problems/daily-temperatures) • [NeetCode Solution](https://neetcode.io/solutions/daily-temperatures) • [YouTube Video](https://www.youtube.com/watch?v=cTBiBSnjO3c)
 * **Pattern**: Monotonic Decreasing Stack (Next Greater Element)
 * **Core Concept**:
   Find how many days you must wait for a warmer temperature.
@@ -78,6 +83,7 @@ The Stack data structure enforces a **Last-In, First-Out (LIFO)** invariant. It 
 ---
 
 ## 6. Car Fleet (LeetCode 853) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/car-fleet/) • [NeetCode Problem](https://neetcode.io/problems/car-fleet) • [NeetCode Solution](https://neetcode.io/solutions/car-fleet) • [YouTube Video](https://www.youtube.com/watch?v=Pr6T-3yB9RM)
 * **Pattern**: Position-Sorted Time-to-Target Stack
 * **Core Concept**:
   Cars that catch up to a slower car ahead cannot pass and merge into that fleet.
@@ -93,6 +99,7 @@ The Stack data structure enforces a **Last-In, First-Out (LIFO)** invariant. It 
 ---
 
 ## 7. Largest Rectangle in Histogram (LeetCode 84) - Hard
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/) • [NeetCode Problem](https://neetcode.io/problems/largest-rectangle-in-histogram) • [NeetCode Solution](https://neetcode.io/solutions/largest-rectangle-in-histogram) • [YouTube Video](https://www.youtube.com/watch?v=zx5Sw9130L0)
 * **Pattern**: Monotonic Increasing Stack with Back-Extended Indices
 * **Core Concept**:
   For each bar of height $h$, find the largest rectangle where $h$ is the bottleneck height.

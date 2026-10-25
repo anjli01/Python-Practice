@@ -5,6 +5,7 @@ Arrays & Hashing forms the bedrock of technical interviews. The central theme of
 ---
 
 ## 1. Contains Duplicate (LeetCode 217) - Easy
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/contains-duplicate/) • [NeetCode Problem](https://neetcode.io/problems/duplicate-integer) • [NeetCode Solution](https://neetcode.io/solutions/contains-duplicate) • [YouTube Video](https://www.youtube.com/watch?v=3OamzN90kPg)
 * **Pattern**: Hash Set / Direct Membership Testing
 * **Core Concept**:
   A Hash Set uses a hashing function to map elements to memory buckets, providing expected $O(1)$ lookup and insertion.
@@ -20,6 +21,7 @@ Arrays & Hashing forms the bedrock of technical interviews. The central theme of
 ---
 
 ## 2. Valid Anagram (LeetCode 242) - Easy
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/valid-anagram/) • [NeetCode Problem](https://neetcode.io/problems/is-anagram) • [NeetCode Solution](https://neetcode.io/solutions/valid-anagram) • [YouTube Video](https://www.youtube.com/watch?v=9UtInBqnCgA)
 * **Pattern**: Fixed-Size Frequency Counting
 * **Core Concept**:
   Two strings are anagrams if and only if they possess identical character distributions.
@@ -36,6 +38,7 @@ Arrays & Hashing forms the bedrock of technical interviews. The central theme of
 ---
 
 ## 3. Two Sum (LeetCode 1) - Easy
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/two-sum/) • [NeetCode Problem](https://neetcode.io/problems/two-integer-sum) • [NeetCode Solution](https://neetcode.io/solutions/two-sum) • [YouTube Video](https://www.youtube.com/watch?v=KLlXCFG5TnA)
 * **Pattern**: One-Pass Hash Map (Complement Lookup)
 * **Core Concept**:
   For an equation $x + y = \text{target}$, if you are currently at $x$, you only need to know whether $y = \text{target} - x$ has already appeared in the array.
@@ -51,6 +54,7 @@ Arrays & Hashing forms the bedrock of technical interviews. The central theme of
 ---
 
 ## 4. Group Anagrams (LeetCode 49) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/group-anagrams/) • [NeetCode Problem](https://neetcode.io/problems/anagram-groups) • [NeetCode Solution](https://neetcode.io/solutions/group-anagrams) • [YouTube Video](https://www.youtube.com/watch?v=vzdNOK2oB2E)
 * **Pattern**: Canonical Key Categorization
 * **Core Concept**:
   To group items together, transform each item into a standardized canonical signature that is identical for all members of the group.
@@ -70,6 +74,7 @@ Arrays & Hashing forms the bedrock of technical interviews. The central theme of
 ---
 
 ## 5. Top K Frequent Elements (LeetCode 347) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) • [NeetCode Problem](https://neetcode.io/problems/top-k-elements-in-list) • [NeetCode Solution](https://neetcode.io/solutions/top-k-frequent-elements) • [YouTube Video](https://www.youtube.com/watch?v=YPTqKIgVk-k)
 * **Pattern**: Bucket Sort (Frequency as Index)
 * **Core Concept**:
   Instead of sorting all frequencies ($O(n \log n)$) or maintaining a Min-Heap of size $k$ ($O(n \log k)$), use the property that an element's frequency cannot exceed $n$.
@@ -85,6 +90,7 @@ Arrays & Hashing forms the bedrock of technical interviews. The central theme of
 ---
 
 ## 6. Encode and Decode Strings (LeetCode 271) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/encode-and-decode-strings/) • [NeetCode Problem](https://neetcode.io/problems/string-encode-and-decode) • [NeetCode Solution](https://neetcode.io/solutions/encode-and-decode-strings) • [YouTube Video](https://www.youtube.com/watch?v=B1k_sxOSgv8)
 * **Pattern**: Chunked Length-Prefixed Framing
 * **Core Concept**:
   Any static delimiter character (such as `,`, `;`, or `|`) could naturally appear inside the input strings. To eliminate ambiguity, encode each string with its length and a sentinel: `<length>#<string>`.
@@ -102,6 +108,7 @@ Arrays & Hashing forms the bedrock of technical interviews. The central theme of
 ---
 
 ## 7. Product of Array Except Self (LeetCode 238) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) • [NeetCode Problem](https://neetcode.io/problems/products-of-array-discluding-self) • [NeetCode Solution](https://neetcode.io/solutions/product-of-array-except-self) • [YouTube Video](https://www.youtube.com/watch?v=bNvIQI2wAjk)
 * **Pattern**: Prefix & Suffix Accumulator (Two-Pass In-Place)
 * **Core Concept**:
   The product of all numbers except `nums[i]` is equivalent to:
@@ -120,6 +127,7 @@ Arrays & Hashing forms the bedrock of technical interviews. The central theme of
 ---
 
 ## 8. Valid Sudoku (LeetCode 36) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/valid-sudoku/) • [NeetCode Problem](https://neetcode.io/problems/valid-sudoku) • [NeetCode Solution](https://neetcode.io/solutions/valid-sudoku) • [YouTube Video](https://www.youtube.com/watch?v=TjFXEUCMqI8)
 * **Pattern**: Coordinate Hashing / Grid Partitioning
 * **Core Concept**:
   Check uniqueness constraints independently across three dimensions:
@@ -141,6 +149,7 @@ Arrays & Hashing forms the bedrock of technical interviews. The central theme of
 ---
 
 ## 9. Longest Consecutive Sequence (LeetCode 128) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) • [NeetCode Problem](https://neetcode.io/problems/longest-consecutive-sequence) • [NeetCode Solution](https://neetcode.io/solutions/longest-consecutive-sequence) • [YouTube Video](https://www.youtube.com/watch?v=P6RZZMu_maU)
 * **Pattern**: Intelligent Sequence Start Detection
 * **Core Concept**:
   To achieve $O(n)$ without sorting ($O(n \log n)$), store all numbers in a Hash Set. Only explore consecutive sequences starting from numbers that are the **head** of a streak.

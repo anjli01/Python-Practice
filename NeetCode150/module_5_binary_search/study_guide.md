@@ -5,6 +5,7 @@ Binary Search is the ultimate tool for achieving **logarithmic $O(\log n)$ runti
 ---
 
 ## 1. Binary Search (LeetCode 704) - Easy
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/binary-search/) • [NeetCode Problem](https://neetcode.io/problems/binary-search) • [NeetCode Solution](https://neetcode.io/solutions/binary-search) • [YouTube Video](https://www.youtube.com/watch?v=s4DPM8ct1pI)
 * **Pattern**: Standard Interval Halving
 * **Core Concept**:
   If the target is smaller than the midpoint, search left (`right = mid - 1`). If larger, search right (`left = mid + 1`).
@@ -19,6 +20,7 @@ Binary Search is the ultimate tool for achieving **logarithmic $O(\log n)$ runti
 ---
 
 ## 2. Search a 2D Matrix (LeetCode 74) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) • [NeetCode Problem](https://neetcode.io/problems/search-2d-matrix) • [NeetCode Solution](https://neetcode.io/solutions/search-a-2d-matrix) • [YouTube Video](https://www.youtube.com/watch?v=Ber2pi2C0j0)
 * **Pattern**: Virtual 1D Array Coordinate Mapping
 * **Core Concept**:
   Since each row is sorted and the first integer of each row is greater than the last integer of the previous row, the entire $m \times n$ matrix is equivalent to a single continuous 1D sorted array of length $m \cdot n$.
@@ -35,6 +37,7 @@ Binary Search is the ultimate tool for achieving **logarithmic $O(\log n)$ runti
 ---
 
 ## 3. Koko Eating Bananas (LeetCode 875) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) • [NeetCode Problem](https://neetcode.io/problems/eating-bananas) • [NeetCode Solution](https://neetcode.io/solutions/koko-eating-bananas) • [YouTube Video](https://www.youtube.com/watch?v=U2SozAs9RzA)
 * **Pattern**: Binary Search on the Answer Space (Monotonic Predicate)
 * **Core Concept**:
   When asked to find the *minimum* or *maximum* value satisfying a condition, and checking a candidate value takes polynomial time, binary search over the range of answers.
@@ -51,6 +54,7 @@ Binary Search is the ultimate tool for achieving **logarithmic $O(\log n)$ runti
 ---
 
 ## 4. Find Minimum in Rotated Sorted Array (LeetCode 153) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) • [NeetCode Problem](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array) • [NeetCode Solution](https://neetcode.io/solutions/find-minimum-in-rotated-sorted-array) • [YouTube Video](https://www.youtube.com/watch?v=nIVW4P8b1VA)
 * **Pattern**: Inflection / Pivot Detection
 * **Core Concept**:
   Compare `nums[mid]` against `nums[right]`:
@@ -67,6 +71,7 @@ Binary Search is the ultimate tool for achieving **logarithmic $O(\log n)$ runti
 ---
 
 ## 5. Search in Rotated Sorted Array (LeetCode 33) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) • [NeetCode Problem](https://neetcode.io/problems/find-target-in-rotated-sorted-array) • [NeetCode Solution](https://neetcode.io/solutions/search-in-rotated-sorted-array) • [YouTube Video](https://www.youtube.com/watch?v=U8XENwh8Oy8)
 * **Pattern**: Halved Sorted-Subarray Invariant
 * **Core Concept**:
   In any rotated sorted array, splitting at `mid` always leaves **at least one half strictly sorted**.
@@ -86,6 +91,7 @@ Binary Search is the ultimate tool for achieving **logarithmic $O(\log n)$ runti
 ---
 
 ## 6. Time Based Key-Value Store (LeetCode 981) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/time-based-key-value-store/) • [NeetCode Problem](https://neetcode.io/problems/time-based-key-value-store) • [NeetCode Solution](https://neetcode.io/solutions/time-based-key-value-store) • [YouTube Video](https://www.youtube.com/watch?v=fu2cD_6E8Hw)
 * **Pattern**: Hash Map of Sorted Arrays with Timestamp Search
 * **Core Concept**:
   Since timestamps are inserted in strictly increasing order, the list of `(timestamp, value)` tuples for any key is already sorted.
@@ -101,6 +107,7 @@ Binary Search is the ultimate tool for achieving **logarithmic $O(\log n)$ runti
 ---
 
 ## 7. Median of Two Sorted Arrays (LeetCode 4) - Hard
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) • [NeetCode Problem](https://neetcode.io/problems/median-of-two-sorted-arrays) • [NeetCode Solution](https://neetcode.io/solutions/median-of-two-sorted-arrays) • [YouTube Video](https://www.youtube.com/watch?v=q6IEA26hvXc)
 * **Pattern**: Binary Search on Partition of Smaller Array
 * **Core Concept**:
   Find a partition of array $A$ and array $B$ such that:

@@ -1,0 +1,1628 @@
+[
+  {
+    "num": "1",
+    "name": "Arrays & Hashing",
+    "count": 9,
+    "problems": [
+      {
+        "num": 217,
+        "name": "Contains Duplicate",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/contains-duplicate/",
+        "video_id": "3OamzN90kPg",
+        "video_url": "https://www.youtube.com/watch?v=3OamzN90kPg",
+        "nc_problem_url": "https://neetcode.io/problems/duplicate-integer",
+        "nc_solution_url": "https://neetcode.io/solutions/contains-duplicate"
+      },
+      {
+        "num": 242,
+        "name": "Valid Anagram",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/valid-anagram/",
+        "video_id": "9UtInBqnCgA",
+        "video_url": "https://www.youtube.com/watch?v=9UtInBqnCgA",
+        "nc_problem_url": "https://neetcode.io/problems/is-anagram",
+        "nc_solution_url": "https://neetcode.io/solutions/valid-anagram"
+      },
+      {
+        "num": 1,
+        "name": "Two Sum",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/two-sum/",
+        "video_id": "KLlXCFG5TnA",
+        "video_url": "https://www.youtube.com/watch?v=KLlXCFG5TnA",
+        "nc_problem_url": "https://neetcode.io/problems/two-integer-sum",
+        "nc_solution_url": "https://neetcode.io/solutions/two-sum"
+      },
+      {
+        "num": 49,
+        "name": "Group Anagrams",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/group-anagrams/",
+        "video_id": "vzdNOK2oB2E",
+        "video_url": "https://www.youtube.com/watch?v=vzdNOK2oB2E",
+        "nc_problem_url": "https://neetcode.io/problems/anagram-groups",
+        "nc_solution_url": "https://neetcode.io/solutions/group-anagrams"
+      },
+      {
+        "num": 347,
+        "name": "Top K Frequent Elements",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/top-k-frequent-elements/",
+        "video_id": "YPTqKIgVk-k",
+        "video_url": "https://www.youtube.com/watch?v=YPTqKIgVk-k",
+        "nc_problem_url": "https://neetcode.io/problems/top-k-elements-in-list",
+        "nc_solution_url": "https://neetcode.io/solutions/top-k-frequent-elements"
+      },
+      {
+        "num": 271,
+        "name": "Encode and Decode Strings",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/encode-and-decode-strings/",
+        "video_id": "B1k_sxOSgv8",
+        "video_url": "https://www.youtube.com/watch?v=B1k_sxOSgv8",
+        "nc_problem_url": "https://neetcode.io/problems/string-encode-and-decode",
+        "nc_solution_url": "https://neetcode.io/solutions/encode-and-decode-strings"
+      },
+      {
+        "num": 238,
+        "name": "Product of Array Except Self",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/product-of-array-except-self/",
+        "video_id": "bNvIQI2wAjk",
+        "video_url": "https://www.youtube.com/watch?v=bNvIQI2wAjk",
+        "nc_problem_url": "https://neetcode.io/problems/products-of-array-discluding-self",
+        "nc_solution_url": "https://neetcode.io/solutions/product-of-array-except-self"
+      },
+      {
+        "num": 36,
+        "name": "Valid Sudoku",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/valid-sudoku/",
+        "video_id": "TjFXEUCMqI8",
+        "video_url": "https://www.youtube.com/watch?v=TjFXEUCMqI8",
+        "nc_problem_url": "https://neetcode.io/problems/valid-sudoku",
+        "nc_solution_url": "https://neetcode.io/solutions/valid-sudoku"
+      },
+      {
+        "num": 128,
+        "name": "Longest Consecutive Sequence",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+        "video_id": "P6RZZMu_maU",
+        "video_url": "https://www.youtube.com/watch?v=P6RZZMu_maU",
+        "nc_problem_url": "https://neetcode.io/problems/longest-consecutive-sequence",
+        "nc_solution_url": "https://neetcode.io/solutions/longest-consecutive-sequence"
+      }
+    ]
+  },
+  {
+    "num": "2",
+    "name": "Two Pointers",
+    "count": 5,
+    "problems": [
+      {
+        "num": 125,
+        "name": "Valid Palindrome",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/valid-palindrome/",
+        "video_id": "jJXJ16kPFWg",
+        "video_url": "https://www.youtube.com/watch?v=jJXJ16kPFWg",
+        "nc_problem_url": "https://neetcode.io/problems/is-palindrome",
+        "nc_solution_url": "https://neetcode.io/solutions/valid-palindrome"
+      },
+      {
+        "num": 167,
+        "name": "Two Sum II - Input Array Is Sorted",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+        "video_id": "cQ1Oz4ckceM",
+        "video_url": "https://www.youtube.com/watch?v=cQ1Oz4ckceM",
+        "nc_problem_url": "https://neetcode.io/problems/two-integer-sum-ii",
+        "nc_solution_url": "https://neetcode.io/solutions/two-sum-ii-input-array-is-sorted"
+      },
+      {
+        "num": 15,
+        "name": "3Sum",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/3sum/",
+        "video_id": "jzZsG8n2R9A",
+        "video_url": "https://www.youtube.com/watch?v=jzZsG8n2R9A",
+        "nc_problem_url": "https://neetcode.io/problems/three-integer-sum",
+        "nc_solution_url": "https://neetcode.io/solutions/3sum"
+      },
+      {
+        "num": 11,
+        "name": "Container With Most Water",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/container-with-most-water/",
+        "video_id": "UuiTKBwPgAo",
+        "video_url": "https://www.youtube.com/watch?v=UuiTKBwPgAo",
+        "nc_problem_url": "https://neetcode.io/problems/max-water-container",
+        "nc_solution_url": "https://neetcode.io/solutions/container-with-most-water"
+      },
+      {
+        "num": 42,
+        "name": "Trapping Rain Water",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/trapping-rain-water/",
+        "video_id": "ZI2z5pq0TqA",
+        "video_url": "https://www.youtube.com/watch?v=ZI2z5pq0TqA",
+        "nc_problem_url": "https://neetcode.io/problems/trapping-rain-water",
+        "nc_solution_url": "https://neetcode.io/solutions/trapping-rain-water"
+      }
+    ]
+  },
+  {
+    "num": "3",
+    "name": "Sliding Window",
+    "count": 6,
+    "problems": [
+      {
+        "num": 121,
+        "name": "Best Time to Buy and Sell Stock",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "video_id": "1pkOgXD63yU",
+        "video_url": "https://www.youtube.com/watch?v=1pkOgXD63yU",
+        "nc_problem_url": "https://neetcode.io/problems/buy-and-sell-crypto",
+        "nc_solution_url": "https://neetcode.io/solutions/best-time-to-buy-and-sell-stock"
+      },
+      {
+        "num": 3,
+        "name": "Longest Substring Without Repeating Characters",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "video_id": "wiGpQwVHdE0",
+        "video_url": "https://www.youtube.com/watch?v=wiGpQwVHdE0",
+        "nc_problem_url": "https://neetcode.io/problems/longest-substring-without-duplicates",
+        "nc_solution_url": "https://neetcode.io/solutions/longest-substring-without-repeating-characters"
+      },
+      {
+        "num": 424,
+        "name": "Longest Repeating Character Replacement",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+        "video_id": "gqXU1UyA8pk",
+        "video_url": "https://www.youtube.com/watch?v=gqXU1UyA8pk",
+        "nc_problem_url": "https://neetcode.io/problems/longest-repeating-substring-with-replacement",
+        "nc_solution_url": "https://neetcode.io/solutions/longest-repeating-character-replacement"
+      },
+      {
+        "num": 567,
+        "name": "Permutation in String",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/permutation-in-string/",
+        "video_id": "UbyhOgBN834",
+        "video_url": "https://www.youtube.com/watch?v=UbyhOgBN834",
+        "nc_problem_url": "https://neetcode.io/problems/permutation-string",
+        "nc_solution_url": "https://neetcode.io/solutions/permutation-in-string"
+      },
+      {
+        "num": 76,
+        "name": "Minimum Window Substring",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/minimum-window-substring/",
+        "video_id": "jSto0O4AJbM",
+        "video_url": "https://www.youtube.com/watch?v=jSto0O4AJbM",
+        "nc_problem_url": "https://neetcode.io/problems/minimum-window-with-characters",
+        "nc_solution_url": "https://neetcode.io/solutions/minimum-window-substring"
+      },
+      {
+        "num": 239,
+        "name": "Sliding Window Maximum",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/sliding-window-maximum/",
+        "video_id": "DfljaUwZsOk",
+        "video_url": "https://www.youtube.com/watch?v=DfljaUwZsOk",
+        "nc_problem_url": "https://neetcode.io/problems/sliding-window-maximum",
+        "nc_solution_url": "https://neetcode.io/solutions/sliding-window-maximum"
+      }
+    ]
+  },
+  {
+    "num": "4",
+    "name": "Stack",
+    "count": 7,
+    "problems": [
+      {
+        "num": 20,
+        "name": "Valid Parentheses",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/valid-parentheses/",
+        "video_id": "WTzjTskDFMg",
+        "video_url": "https://www.youtube.com/watch?v=WTzjTskDFMg",
+        "nc_problem_url": "https://neetcode.io/problems/validate-parentheses",
+        "nc_solution_url": "https://neetcode.io/solutions/valid-parentheses"
+      },
+      {
+        "num": 155,
+        "name": "Min Stack",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/min-stack/",
+        "video_id": "qkLl7nAwDPo",
+        "video_url": "https://www.youtube.com/watch?v=qkLl7nAwDPo",
+        "nc_problem_url": "https://neetcode.io/problems/minimum-stack",
+        "nc_solution_url": "https://neetcode.io/solutions/min-stack"
+      },
+      {
+        "num": 150,
+        "name": "Evaluate Reverse Polish Notation",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+        "video_id": "iu0082c4HDE",
+        "video_url": "https://www.youtube.com/watch?v=iu0082c4HDE",
+        "nc_problem_url": "https://neetcode.io/problems/evaluate-reverse-polish-notation",
+        "nc_solution_url": "https://neetcode.io/solutions/evaluate-reverse-polish-notation"
+      },
+      {
+        "num": 22,
+        "name": "Generate Parentheses",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/generate-parentheses/",
+        "video_id": "s9fokUqJ76A",
+        "video_url": "https://www.youtube.com/watch?v=s9fokUqJ76A",
+        "nc_problem_url": "https://neetcode.io/problems/generate-parentheses",
+        "nc_solution_url": "https://neetcode.io/solutions/generate-parentheses"
+      },
+      {
+        "num": 739,
+        "name": "Daily Temperatures",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/daily-temperatures/",
+        "video_id": "cTBiBSnjO3c",
+        "video_url": "https://www.youtube.com/watch?v=cTBiBSnjO3c",
+        "nc_problem_url": "https://neetcode.io/problems/daily-temperatures",
+        "nc_solution_url": "https://neetcode.io/solutions/daily-temperatures"
+      },
+      {
+        "num": 853,
+        "name": "Car Fleet",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/car-fleet/",
+        "video_id": "Pr6T-3yB9RM",
+        "video_url": "https://www.youtube.com/watch?v=Pr6T-3yB9RM",
+        "nc_problem_url": "https://neetcode.io/problems/car-fleet",
+        "nc_solution_url": "https://neetcode.io/solutions/car-fleet"
+      },
+      {
+        "num": 84,
+        "name": "Largest Rectangle in Histogram",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+        "video_id": "zx5Sw9130L0",
+        "video_url": "https://www.youtube.com/watch?v=zx5Sw9130L0",
+        "nc_problem_url": "https://neetcode.io/problems/largest-rectangle-in-histogram",
+        "nc_solution_url": "https://neetcode.io/solutions/largest-rectangle-in-histogram"
+      }
+    ]
+  },
+  {
+    "num": "5",
+    "name": "Binary Search",
+    "count": 7,
+    "problems": [
+      {
+        "num": 704,
+        "name": "Binary Search",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/binary-search/",
+        "video_id": "s4DPM8ct1pI",
+        "video_url": "https://www.youtube.com/watch?v=s4DPM8ct1pI",
+        "nc_problem_url": "https://neetcode.io/problems/binary-search",
+        "nc_solution_url": "https://neetcode.io/solutions/binary-search"
+      },
+      {
+        "num": 74,
+        "name": "Search a 2D Matrix",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/search-a-2d-matrix/",
+        "video_id": "Ber2pi2C0j0",
+        "video_url": "https://www.youtube.com/watch?v=Ber2pi2C0j0",
+        "nc_problem_url": "https://neetcode.io/problems/search-2d-matrix",
+        "nc_solution_url": "https://neetcode.io/solutions/search-a-2d-matrix"
+      },
+      {
+        "num": 875,
+        "name": "Koko Eating Bananas",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/koko-eating-bananas/",
+        "video_id": "U2SozAs9RzA",
+        "video_url": "https://www.youtube.com/watch?v=U2SozAs9RzA",
+        "nc_problem_url": "https://neetcode.io/problems/eating-bananas",
+        "nc_solution_url": "https://neetcode.io/solutions/koko-eating-bananas"
+      },
+      {
+        "num": 153,
+        "name": "Find Minimum in Rotated Sorted Array",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+        "video_id": "nIVW4P8b1VA",
+        "video_url": "https://www.youtube.com/watch?v=nIVW4P8b1VA",
+        "nc_problem_url": "https://neetcode.io/problems/find-minimum-in-rotated-sorted-array",
+        "nc_solution_url": "https://neetcode.io/solutions/find-minimum-in-rotated-sorted-array"
+      },
+      {
+        "num": 33,
+        "name": "Search in Rotated Sorted Array",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+        "video_id": "U8XENwh8Oy8",
+        "video_url": "https://www.youtube.com/watch?v=U8XENwh8Oy8",
+        "nc_problem_url": "https://neetcode.io/problems/find-target-in-rotated-sorted-array",
+        "nc_solution_url": "https://neetcode.io/solutions/search-in-rotated-sorted-array"
+      },
+      {
+        "num": 981,
+        "name": "Time Based Key-Value Store",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/time-based-key-value-store/",
+        "video_id": "fu2cD_6E8Hw",
+        "video_url": "https://www.youtube.com/watch?v=fu2cD_6E8Hw",
+        "nc_problem_url": "https://neetcode.io/problems/time-based-key-value-store",
+        "nc_solution_url": "https://neetcode.io/solutions/time-based-key-value-store"
+      },
+      {
+        "num": 4,
+        "name": "Median of Two Sorted Arrays",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+        "video_id": "q6IEA26hvXc",
+        "video_url": "https://www.youtube.com/watch?v=q6IEA26hvXc",
+        "nc_problem_url": "https://neetcode.io/problems/median-of-two-sorted-arrays",
+        "nc_solution_url": "https://neetcode.io/solutions/median-of-two-sorted-arrays"
+      }
+    ]
+  },
+  {
+    "num": "6",
+    "name": "Linked List",
+    "count": 11,
+    "problems": [
+      {
+        "num": 206,
+        "name": "Reverse Linked List",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/reverse-linked-list/",
+        "video_id": "G0_I-ZF0S38",
+        "video_url": "https://www.youtube.com/watch?v=G0_I-ZF0S38",
+        "nc_problem_url": "https://neetcode.io/problems/reverse-a-linked-list",
+        "nc_solution_url": "https://neetcode.io/solutions/reverse-linked-list"
+      },
+      {
+        "num": 21,
+        "name": "Merge Two Sorted Lists",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+        "video_id": "XIdigk956u0",
+        "video_url": "https://www.youtube.com/watch?v=XIdigk956u0",
+        "nc_problem_url": "https://neetcode.io/problems/merge-two-sorted-linked-lists",
+        "nc_solution_url": "https://neetcode.io/solutions/merge-two-sorted-lists"
+      },
+      {
+        "num": 143,
+        "name": "Reorder List",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/reorder-list/",
+        "video_id": "S5bfdUTrKLM",
+        "video_url": "https://www.youtube.com/watch?v=S5bfdUTrKLM",
+        "nc_problem_url": "https://neetcode.io/problems/reorder-linked-list",
+        "nc_solution_url": "https://neetcode.io/solutions/reorder-list"
+      },
+      {
+        "num": 19,
+        "name": "Remove Nth Node From End of List",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "video_id": "XVuQxVej6y8",
+        "video_url": "https://www.youtube.com/watch?v=XVuQxVej6y8",
+        "nc_problem_url": "https://neetcode.io/problems/remove-node-from-end-of-linked-list",
+        "nc_solution_url": "https://neetcode.io/solutions/remove-nth-node-from-end-of-list"
+      },
+      {
+        "num": 138,
+        "name": "Copy List with Random Pointer",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+        "video_id": "5Y2EiZST97Y",
+        "video_url": "https://www.youtube.com/watch?v=5Y2EiZST97Y",
+        "nc_problem_url": "https://neetcode.io/problems/copy-linked-list-with-random-pointer",
+        "nc_solution_url": "https://neetcode.io/solutions/copy-list-with-random-pointer"
+      },
+      {
+        "num": 2,
+        "name": "Add Two Numbers",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/add-two-numbers/",
+        "video_id": "wgFPrzTjm7s",
+        "video_url": "https://www.youtube.com/watch?v=wgFPrzTjm7s",
+        "nc_problem_url": "https://neetcode.io/problems/add-two-numbers",
+        "nc_solution_url": "https://neetcode.io/solutions/add-two-numbers"
+      },
+      {
+        "num": 141,
+        "name": "Linked List Cycle",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/linked-list-cycle/",
+        "video_id": "gBTe7lFR3vc",
+        "video_url": "https://www.youtube.com/watch?v=gBTe7lFR3vc",
+        "nc_problem_url": "https://neetcode.io/problems/linked-list-cycle-detection",
+        "nc_solution_url": "https://neetcode.io/solutions/linked-list-cycle"
+      },
+      {
+        "num": 287,
+        "name": "Find the Duplicate Number",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/find-the-duplicate-number/",
+        "video_id": "wjYnzkAhcNk",
+        "video_url": "https://www.youtube.com/watch?v=wjYnzkAhcNk",
+        "nc_problem_url": "https://neetcode.io/problems/find-duplicate-integer",
+        "nc_solution_url": "https://neetcode.io/solutions/find-the-duplicate-number"
+      },
+      {
+        "num": 146,
+        "name": "LRU Cache",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/lru-cache/",
+        "video_id": "7ABFKPK2hD4",
+        "video_url": "https://www.youtube.com/watch?v=7ABFKPK2hD4",
+        "nc_problem_url": "https://neetcode.io/problems/lru-cache",
+        "nc_solution_url": "https://neetcode.io/solutions/lru-cache"
+      },
+      {
+        "num": 23,
+        "name": "Merge k Sorted Lists",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+        "video_id": "q5a5OiGbT6Q",
+        "video_url": "https://www.youtube.com/watch?v=q5a5OiGbT6Q",
+        "nc_problem_url": "https://neetcode.io/problems/merge-k-sorted-linked-lists",
+        "nc_solution_url": "https://neetcode.io/solutions/merge-k-sorted-lists"
+      },
+      {
+        "num": 25,
+        "name": "Reverse Nodes in k-Group",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+        "video_id": "1UOPsfP85V4",
+        "video_url": "https://www.youtube.com/watch?v=1UOPsfP85V4",
+        "nc_problem_url": "https://neetcode.io/problems/reverse-nodes-in-k-group",
+        "nc_solution_url": "https://neetcode.io/solutions/reverse-nodes-in-k-group"
+      }
+    ]
+  },
+  {
+    "num": "7",
+    "name": "Trees",
+    "count": 15,
+    "problems": [
+      {
+        "num": 226,
+        "name": "Invert Binary Tree",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/invert-binary-tree/",
+        "video_id": "OnSn2XEQ4MY",
+        "video_url": "https://www.youtube.com/watch?v=OnSn2XEQ4MY",
+        "nc_problem_url": "https://neetcode.io/problems/invert-a-binary-tree",
+        "nc_solution_url": "https://neetcode.io/solutions/invert-binary-tree"
+      },
+      {
+        "num": 104,
+        "name": "Maximum Depth of Binary Tree",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "video_id": "hTM3phVI6YQ",
+        "video_url": "https://www.youtube.com/watch?v=hTM3phVI6YQ",
+        "nc_problem_url": "https://neetcode.io/problems/depth-of-binary-tree",
+        "nc_solution_url": "https://neetcode.io/solutions/maximum-depth-of-binary-tree"
+      },
+      {
+        "num": 543,
+        "name": "Diameter of Binary Tree",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+        "video_id": "K81C31ytOZE",
+        "video_url": "https://www.youtube.com/watch?v=K81C31ytOZE",
+        "nc_problem_url": "https://neetcode.io/problems/binary-tree-diameter",
+        "nc_solution_url": "https://neetcode.io/solutions/diameter-of-binary-tree"
+      },
+      {
+        "num": 110,
+        "name": "Balanced Binary Tree",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/balanced-binary-tree/",
+        "video_id": "QfJsau0ItOY",
+        "video_url": "https://www.youtube.com/watch?v=QfJsau0ItOY",
+        "nc_problem_url": "https://neetcode.io/problems/balanced-binary-tree",
+        "nc_solution_url": "https://neetcode.io/solutions/balanced-binary-tree"
+      },
+      {
+        "num": 100,
+        "name": "Same Tree",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/same-tree/",
+        "video_id": "vRbbcKXCxOw",
+        "video_url": "https://www.youtube.com/watch?v=vRbbcKXCxOw",
+        "nc_problem_url": "https://neetcode.io/problems/same-binary-tree",
+        "nc_solution_url": "https://neetcode.io/solutions/same-tree"
+      },
+      {
+        "num": 572,
+        "name": "Subtree of Another Tree",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/subtree-of-another-tree/",
+        "video_id": "E36O5SWp-LE",
+        "video_url": "https://www.youtube.com/watch?v=E36O5SWp-LE",
+        "nc_problem_url": "https://neetcode.io/problems/subtree-of-a-binary-tree",
+        "nc_solution_url": "https://neetcode.io/solutions/subtree-of-another-tree"
+      },
+      {
+        "num": 235,
+        "name": "Lowest Common Ancestor of a BST",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+        "video_id": "gs2LMfuOR9k",
+        "video_url": "https://www.youtube.com/watch?v=gs2LMfuOR9k",
+        "nc_problem_url": "https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree",
+        "nc_solution_url": "https://neetcode.io/solutions/lowest-common-ancestor-of-a-binary-search-tree"
+      },
+      {
+        "num": 102,
+        "name": "Binary Tree Level Order Traversal",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "video_id": "6ZnyEApgFYg",
+        "video_url": "https://www.youtube.com/watch?v=6ZnyEApgFYg",
+        "nc_problem_url": "https://neetcode.io/problems/level-order-traversal-of-binary-tree",
+        "nc_solution_url": "https://neetcode.io/solutions/binary-tree-level-order-traversal"
+      },
+      {
+        "num": 199,
+        "name": "Binary Tree Right Side View",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/binary-tree-right-side-view/",
+        "video_id": "d4zLyf32e3I",
+        "video_url": "https://www.youtube.com/watch?v=d4zLyf32e3I",
+        "nc_problem_url": "https://neetcode.io/problems/binary-tree-right-side-view",
+        "nc_solution_url": "https://neetcode.io/solutions/binary-tree-right-side-view"
+      },
+      {
+        "num": 1448,
+        "name": "Count Good Nodes in Binary Tree",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/",
+        "video_id": "7cp5imvDzl4",
+        "video_url": "https://www.youtube.com/watch?v=7cp5imvDzl4",
+        "nc_problem_url": "https://neetcode.io/problems/count-good-nodes-in-binary-tree",
+        "nc_solution_url": "https://neetcode.io/solutions/count-good-nodes-in-binary-tree"
+      },
+      {
+        "num": 98,
+        "name": "Validate Binary Search Tree",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/validate-binary-search-tree/",
+        "video_id": "s6ATEkipzow",
+        "video_url": "https://www.youtube.com/watch?v=s6ATEkipzow",
+        "nc_problem_url": "https://neetcode.io/problems/valid-binary-search-tree",
+        "nc_solution_url": "https://neetcode.io/solutions/validate-binary-search-tree"
+      },
+      {
+        "num": 230,
+        "name": "Kth Smallest Element in a BST",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+        "video_id": "5LUXSvjmGCw",
+        "video_url": "https://www.youtube.com/watch?v=5LUXSvjmGCw",
+        "nc_problem_url": "https://neetcode.io/problems/kth-smallest-integer-in-bst",
+        "nc_solution_url": "https://neetcode.io/solutions/kth-smallest-element-in-a-bst"
+      },
+      {
+        "num": 105,
+        "name": "Construct Binary Tree from Preorder & Inorder",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "video_id": "ihj4IQGZ2zc",
+        "video_url": "https://www.youtube.com/watch?v=ihj4IQGZ2zc",
+        "nc_problem_url": "https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal",
+        "nc_solution_url": "https://neetcode.io/solutions/construct-binary-tree-from-preorder-and-inorder-traversal"
+      },
+      {
+        "num": 124,
+        "name": "Binary Tree Maximum Path Sum",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+        "video_id": "Hr5cWUld4vU",
+        "video_url": "https://www.youtube.com/watch?v=Hr5cWUld4vU",
+        "nc_problem_url": "https://neetcode.io/problems/binary-tree-maximum-path-sum",
+        "nc_solution_url": "https://neetcode.io/solutions/binary-tree-maximum-path-sum"
+      },
+      {
+        "num": 297,
+        "name": "Serialize and Deserialize Binary Tree",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+        "video_id": "u4JAi2JJhI8",
+        "video_url": "https://www.youtube.com/watch?v=u4JAi2JJhI8",
+        "nc_problem_url": "https://neetcode.io/problems/serialize-and-deserialize-binary-tree",
+        "nc_solution_url": "https://neetcode.io/solutions/serialize-and-deserialize-binary-tree"
+      }
+    ]
+  },
+  {
+    "num": "8",
+    "name": "Tries",
+    "count": 3,
+    "problems": [
+      {
+        "num": 208,
+        "name": "Implement Trie (Prefix Tree)",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+        "video_id": "oobqoCJlHA0",
+        "video_url": "https://www.youtube.com/watch?v=oobqoCJlHA0",
+        "nc_problem_url": "https://neetcode.io/problems/implement-prefix-tree",
+        "nc_solution_url": "https://neetcode.io/solutions/implement-trie-prefix-tree"
+      },
+      {
+        "num": 211,
+        "name": "Design Add and Search Words Data Structure",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+        "video_id": "BTf05gs_8iU",
+        "video_url": "https://www.youtube.com/watch?v=BTf05gs_8iU",
+        "nc_problem_url": "https://neetcode.io/problems/design-word-search-data-structure",
+        "nc_solution_url": "https://neetcode.io/solutions/design-add-and-search-words-data-structure"
+      },
+      {
+        "num": 212,
+        "name": "Word Search II",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/word-search-ii/",
+        "video_id": "asbcE9mZz_U",
+        "video_url": "https://www.youtube.com/watch?v=asbcE9mZz_U",
+        "nc_problem_url": "https://neetcode.io/problems/search-for-word-ii",
+        "nc_solution_url": "https://neetcode.io/solutions/word-search-ii"
+      }
+    ]
+  },
+  {
+    "num": "9",
+    "name": "Heap / Priority Queue",
+    "count": 7,
+    "problems": [
+      {
+        "num": 703,
+        "name": "Kth Largest Element in a Stream",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+        "video_id": "hOjcdrqMoQ8",
+        "video_url": "https://www.youtube.com/watch?v=hOjcdrqMoQ8",
+        "nc_problem_url": "https://neetcode.io/problems/kth-largest-integer-in-a-stream",
+        "nc_solution_url": "https://neetcode.io/solutions/kth-largest-element-in-a-stream"
+      },
+      {
+        "num": 1046,
+        "name": "Last Stone Weight",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/last-stone-weight/",
+        "video_id": "B-QCq79-Vfw",
+        "video_url": "https://www.youtube.com/watch?v=B-QCq79-Vfw",
+        "nc_problem_url": "https://neetcode.io/problems/last-stone-weight",
+        "nc_solution_url": "https://neetcode.io/solutions/last-stone-weight"
+      },
+      {
+        "num": 973,
+        "name": "K Closest Points to Origin",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/k-closest-points-to-origin/",
+        "video_id": "rI2EBUEMfTk",
+        "video_url": "https://www.youtube.com/watch?v=rI2EBUEMfTk",
+        "nc_problem_url": "https://neetcode.io/problems/k-closest-points-to-origin",
+        "nc_solution_url": "https://neetcode.io/solutions/k-closest-points-to-origin"
+      },
+      {
+        "num": 215,
+        "name": "Kth Largest Element in an Array",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "video_id": "XEmy13g1Qxc",
+        "video_url": "https://www.youtube.com/watch?v=XEmy13g1Qxc",
+        "nc_problem_url": "https://neetcode.io/problems/kth-largest-element-in-an-array",
+        "nc_solution_url": "https://neetcode.io/solutions/kth-largest-element-in-an-array"
+      },
+      {
+        "num": 621,
+        "name": "Task Scheduler",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/task-scheduler/",
+        "video_id": "s8p8ukTyA2I",
+        "video_url": "https://www.youtube.com/watch?v=s8p8ukTyA2I",
+        "nc_problem_url": "https://neetcode.io/problems/task-scheduling",
+        "nc_solution_url": "https://neetcode.io/solutions/task-scheduler"
+      },
+      {
+        "num": 355,
+        "name": "Design Twitter",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/design-twitter/",
+        "video_id": "pNichitDD2E",
+        "video_url": "https://www.youtube.com/watch?v=pNichitDD2E",
+        "nc_problem_url": "https://neetcode.io/problems/design-twitter-feed",
+        "nc_solution_url": "https://neetcode.io/solutions/design-twitter"
+      },
+      {
+        "num": 295,
+        "name": "Find Median from Data Stream",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "video_id": "itmhHWaHupI",
+        "video_url": "https://www.youtube.com/watch?v=itmhHWaHupI",
+        "nc_problem_url": "https://neetcode.io/problems/find-median-in-a-data-stream",
+        "nc_solution_url": "https://neetcode.io/solutions/find-median-from-data-stream"
+      }
+    ]
+  },
+  {
+    "num": "10",
+    "name": "Backtracking",
+    "count": 9,
+    "problems": [
+      {
+        "num": 78,
+        "name": "Subsets",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/subsets/",
+        "video_id": "REOH22Xwdkk",
+        "video_url": "https://www.youtube.com/watch?v=REOH22Xwdkk",
+        "nc_problem_url": "https://neetcode.io/problems/subsets",
+        "nc_solution_url": "https://neetcode.io/solutions/subsets"
+      },
+      {
+        "num": 39,
+        "name": "Combination Sum",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/combination-sum/",
+        "video_id": "GBKI9VSKdGg",
+        "video_url": "https://www.youtube.com/watch?v=GBKI9VSKdGg",
+        "nc_problem_url": "https://neetcode.io/problems/combination-target-sum",
+        "nc_solution_url": "https://neetcode.io/solutions/combination-sum"
+      },
+      {
+        "num": 46,
+        "name": "Permutations",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/permutations/",
+        "video_id": "FZe0UqISmUw",
+        "video_url": "https://www.youtube.com/watch?v=FZe0UqISmUw",
+        "nc_problem_url": "https://neetcode.io/problems/permutations",
+        "nc_solution_url": "https://neetcode.io/solutions/permutations"
+      },
+      {
+        "num": 90,
+        "name": "Subsets II",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/subsets-ii/",
+        "video_id": "Vn2v6ajA7U0",
+        "video_url": "https://www.youtube.com/watch?v=Vn2v6ajA7U0",
+        "nc_problem_url": "https://neetcode.io/problems/subsets-ii",
+        "nc_solution_url": "https://neetcode.io/solutions/subsets-ii"
+      },
+      {
+        "num": 40,
+        "name": "Combination Sum II",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/combination-sum-ii/",
+        "video_id": "FOyRpNUSFeA",
+        "video_url": "https://www.youtube.com/watch?v=FOyRpNUSFeA",
+        "nc_problem_url": "https://neetcode.io/problems/combination-target-sum-ii",
+        "nc_solution_url": "https://neetcode.io/solutions/combination-sum-ii"
+      },
+      {
+        "num": 79,
+        "name": "Word Search",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/word-search/",
+        "video_id": "pfiQ_PS1g8E",
+        "video_url": "https://www.youtube.com/watch?v=pfiQ_PS1g8E",
+        "nc_problem_url": "https://neetcode.io/problems/search-for-word",
+        "nc_solution_url": "https://neetcode.io/solutions/word-search"
+      },
+      {
+        "num": 131,
+        "name": "Palindrome Partitioning",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/palindrome-partitioning/",
+        "video_id": "3jvWodd7ht0",
+        "video_url": "https://www.youtube.com/watch?v=3jvWodd7ht0",
+        "nc_problem_url": "https://neetcode.io/problems/palindrome-partitioning",
+        "nc_solution_url": "https://neetcode.io/solutions/palindrome-partitioning"
+      },
+      {
+        "num": 17,
+        "name": "Letter Combinations of a Phone Number",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+        "video_id": "0snEunUacZY",
+        "video_url": "https://www.youtube.com/watch?v=0snEunUacZY",
+        "nc_problem_url": "https://neetcode.io/problems/combinations-of-a-phone-number",
+        "nc_solution_url": "https://neetcode.io/solutions/letter-combinations-of-a-phone-number"
+      },
+      {
+        "num": 51,
+        "name": "N-Queens",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/n-queens/",
+        "video_id": "Ph95IHmRp5M",
+        "video_url": "https://www.youtube.com/watch?v=Ph95IHmRp5M",
+        "nc_problem_url": "https://neetcode.io/problems/n-queens",
+        "nc_solution_url": "https://neetcode.io/solutions/n-queens"
+      }
+    ]
+  },
+  {
+    "num": "11",
+    "name": "Graphs",
+    "count": 13,
+    "problems": [
+      {
+        "num": 200,
+        "name": "Number of Islands",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/number-of-islands/",
+        "video_id": "pV2kpPD66nE",
+        "video_url": "https://www.youtube.com/watch?v=pV2kpPD66nE",
+        "nc_problem_url": "https://neetcode.io/problems/count-number-of-islands",
+        "nc_solution_url": "https://neetcode.io/solutions/number-of-islands"
+      },
+      {
+        "num": 695,
+        "name": "Max Area of Island",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/max-area-of-island/",
+        "video_id": "iJGr1OtmH0c",
+        "video_url": "https://www.youtube.com/watch?v=iJGr1OtmH0c",
+        "nc_problem_url": "https://neetcode.io/problems/max-area-of-island",
+        "nc_solution_url": "https://neetcode.io/solutions/max-area-of-island"
+      },
+      {
+        "num": 133,
+        "name": "Clone Graph",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/clone-graph/",
+        "video_id": "mQeF6bN8hMk",
+        "video_url": "https://www.youtube.com/watch?v=mQeF6bN8hMk",
+        "nc_problem_url": "https://neetcode.io/problems/clone-graph",
+        "nc_solution_url": "https://neetcode.io/solutions/clone-graph"
+      },
+      {
+        "num": 286,
+        "name": "Walls and Gates",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/walls-and-gates/",
+        "video_id": "e69C6xhiSQE",
+        "video_url": "https://www.youtube.com/watch?v=e69C6xhiSQE",
+        "nc_problem_url": "https://neetcode.io/problems/islands-and-treasure",
+        "nc_solution_url": "https://neetcode.io/solutions/walls-and-gates"
+      },
+      {
+        "num": 994,
+        "name": "Rotting Oranges",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/rotting-oranges/",
+        "video_id": "y704fEOx0s0",
+        "video_url": "https://www.youtube.com/watch?v=y704fEOx0s0",
+        "nc_problem_url": "https://neetcode.io/problems/rotting-fruit",
+        "nc_solution_url": "https://neetcode.io/solutions/rotting-oranges"
+      },
+      {
+        "num": 417,
+        "name": "Pacific Atlantic Water Flow",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+        "video_id": "s-VkcjHqkGI",
+        "video_url": "https://www.youtube.com/watch?v=s-VkcjHqkGI",
+        "nc_problem_url": "https://neetcode.io/problems/pacific-atlantic-water-flow",
+        "nc_solution_url": "https://neetcode.io/solutions/pacific-atlantic-water-flow"
+      },
+      {
+        "num": 130,
+        "name": "Surrounded Regions",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/surrounded-regions/",
+        "video_id": "9z2BunfoZ5Y",
+        "video_url": "https://www.youtube.com/watch?v=9z2BunfoZ5Y",
+        "nc_problem_url": "https://neetcode.io/problems/surrounded-regions",
+        "nc_solution_url": "https://neetcode.io/solutions/surrounded-regions"
+      },
+      {
+        "num": 207,
+        "name": "Course Schedule",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/course-schedule/",
+        "video_id": "EgI5nU9etnU",
+        "video_url": "https://www.youtube.com/watch?v=EgI5nU9etnU",
+        "nc_problem_url": "https://neetcode.io/problems/course-schedule",
+        "nc_solution_url": "https://neetcode.io/solutions/course-schedule"
+      },
+      {
+        "num": 210,
+        "name": "Course Schedule II",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/course-schedule-ii/",
+        "video_id": "Akt3glAwyfY",
+        "video_url": "https://www.youtube.com/watch?v=Akt3glAwyfY",
+        "nc_problem_url": "https://neetcode.io/problems/course-schedule-ii",
+        "nc_solution_url": "https://neetcode.io/solutions/course-schedule-ii"
+      },
+      {
+        "num": 261,
+        "name": "Graph Valid Tree",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/graph-valid-tree/",
+        "video_id": "bXsUuownnoQ",
+        "video_url": "https://www.youtube.com/watch?v=bXsUuownnoQ",
+        "nc_problem_url": "https://neetcode.io/problems/valid-tree",
+        "nc_solution_url": "https://neetcode.io/solutions/graph-valid-tree"
+      },
+      {
+        "num": 323,
+        "name": "Number of Connected Components in an Undirected Graph",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
+        "video_id": "8f1XPm4WOUc",
+        "video_url": "https://www.youtube.com/watch?v=8f1XPm4WOUc",
+        "nc_problem_url": "https://neetcode.io/problems/count-connected-components",
+        "nc_solution_url": "https://neetcode.io/solutions/number-of-connected-components-in-an-undirected-graph"
+      },
+      {
+        "num": 684,
+        "name": "Redundant Connection",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/redundant-connection/",
+        "video_id": "1lNK80tOTfc",
+        "video_url": "https://www.youtube.com/watch?v=1lNK80tOTfc",
+        "nc_problem_url": "https://neetcode.io/problems/redundant-connection",
+        "nc_solution_url": "https://neetcode.io/solutions/redundant-connection"
+      },
+      {
+        "num": 127,
+        "name": "Word Ladder",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/word-ladder/",
+        "video_id": "h9iTnkgv05E",
+        "video_url": "https://www.youtube.com/watch?v=h9iTnkgv05E",
+        "nc_problem_url": "https://neetcode.io/problems/word-ladder",
+        "nc_solution_url": "https://neetcode.io/solutions/word-ladder"
+      }
+    ]
+  },
+  {
+    "num": "12",
+    "name": "Advanced Graphs",
+    "count": 6,
+    "problems": [
+      {
+        "num": 332,
+        "name": "Reconstruct Itinerary",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/reconstruct-itinerary/",
+        "video_id": "ZyB_gQ8vqGA",
+        "video_url": "https://www.youtube.com/watch?v=ZyB_gQ8vqGA",
+        "nc_problem_url": "https://neetcode.io/problems/reconstruct-flight-path",
+        "nc_solution_url": "https://neetcode.io/solutions/reconstruct-itinerary"
+      },
+      {
+        "num": 1584,
+        "name": "Min Cost to Connect All Points",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
+        "video_id": "f7JOBJIC-NA",
+        "video_url": "https://www.youtube.com/watch?v=f7JOBJIC-NA",
+        "nc_problem_url": "https://neetcode.io/problems/min-cost-to-connect-points",
+        "nc_solution_url": "https://neetcode.io/solutions/min-cost-to-connect-all-points"
+      },
+      {
+        "num": 743,
+        "name": "Network Delay Time",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/network-delay-time/",
+        "video_id": "EaphyqKU4PQ",
+        "video_url": "https://www.youtube.com/watch?v=EaphyqKU4PQ",
+        "nc_problem_url": "https://neetcode.io/problems/network-delay-time",
+        "nc_solution_url": "https://neetcode.io/solutions/network-delay-time"
+      },
+      {
+        "num": 778,
+        "name": "Swim in Rising Water",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/swim-in-rising-water/",
+        "video_id": "amvrKlMLuGY",
+        "video_url": "https://www.youtube.com/watch?v=amvrKlMLuGY",
+        "nc_problem_url": "https://neetcode.io/problems/swim-in-rising-water",
+        "nc_solution_url": "https://neetcode.io/solutions/swim-in-rising-water"
+      },
+      {
+        "num": 269,
+        "name": "Alien Dictionary",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/alien-dictionary/",
+        "video_id": "6kTZYvNNyps",
+        "video_url": "https://www.youtube.com/watch?v=6kTZYvNNyps",
+        "nc_problem_url": "https://neetcode.io/problems/foreign-dictionary",
+        "nc_solution_url": "https://neetcode.io/solutions/alien-dictionary"
+      },
+      {
+        "num": 787,
+        "name": "Cheapest Flights Within K Stops",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+        "video_id": "5eIK3zUdYmE",
+        "video_url": "https://www.youtube.com/watch?v=5eIK3zUdYmE",
+        "nc_problem_url": "https://neetcode.io/problems/cheapest-flight-path",
+        "nc_solution_url": "https://neetcode.io/solutions/cheapest-flights-within-k-stops"
+      }
+    ]
+  },
+  {
+    "num": "13",
+    "name": "1-D Dynamic Programming",
+    "count": 12,
+    "problems": [
+      {
+        "num": 70,
+        "name": "Climbing Stairs",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/climbing-stairs/",
+        "video_id": "Y0lT9Fck7qI",
+        "video_url": "https://www.youtube.com/watch?v=Y0lT9Fck7qI",
+        "nc_problem_url": "https://neetcode.io/problems/climbing-stairs",
+        "nc_solution_url": "https://neetcode.io/solutions/climbing-stairs"
+      },
+      {
+        "num": 746,
+        "name": "Min Cost Climbing Stairs",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+        "video_id": "ktmzAZWkEZ0",
+        "video_url": "https://www.youtube.com/watch?v=ktmzAZWkEZ0",
+        "nc_problem_url": "https://neetcode.io/problems/min-cost-climbing-stairs",
+        "nc_solution_url": "https://neetcode.io/solutions/min-cost-climbing-stairs"
+      },
+      {
+        "num": 198,
+        "name": "House Robber",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/house-robber/",
+        "video_id": "73r3KWiEvyk",
+        "video_url": "https://www.youtube.com/watch?v=73r3KWiEvyk",
+        "nc_problem_url": "https://neetcode.io/problems/house-robber",
+        "nc_solution_url": "https://neetcode.io/solutions/house-robber"
+      },
+      {
+        "num": 213,
+        "name": "House Robber II",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/house-robber-ii/",
+        "video_id": "rWAJCfYYOvM",
+        "video_url": "https://www.youtube.com/watch?v=rWAJCfYYOvM",
+        "nc_problem_url": "https://neetcode.io/problems/house-robber-ii",
+        "nc_solution_url": "https://neetcode.io/solutions/house-robber-ii"
+      },
+      {
+        "num": 5,
+        "name": "Longest Palindromic Substring",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/longest-palindromic-substring/",
+        "video_id": "XYQecbcd6_c",
+        "video_url": "https://www.youtube.com/watch?v=XYQecbcd6_c",
+        "nc_problem_url": "https://neetcode.io/problems/longest-palindromic-substring",
+        "nc_solution_url": "https://neetcode.io/solutions/longest-palindromic-substring"
+      },
+      {
+        "num": 647,
+        "name": "Palindromic Substrings",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/palindromic-substrings/",
+        "video_id": "4RACzI5-du8",
+        "video_url": "https://www.youtube.com/watch?v=4RACzI5-du8",
+        "nc_problem_url": "https://neetcode.io/problems/palindromic-substrings",
+        "nc_solution_url": "https://neetcode.io/solutions/palindromic-substrings"
+      },
+      {
+        "num": 91,
+        "name": "Decode Ways",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/decode-ways/",
+        "video_id": "6aEyTjOwlJU",
+        "video_url": "https://www.youtube.com/watch?v=6aEyTjOwlJU",
+        "nc_problem_url": "https://neetcode.io/problems/decode-ways",
+        "nc_solution_url": "https://neetcode.io/solutions/decode-ways"
+      },
+      {
+        "num": 322,
+        "name": "Coin Change",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/coin-change/",
+        "video_id": "H9bfqozjoqs",
+        "video_url": "https://www.youtube.com/watch?v=H9bfqozjoqs",
+        "nc_problem_url": "https://neetcode.io/problems/coin-change",
+        "nc_solution_url": "https://neetcode.io/solutions/coin-change"
+      },
+      {
+        "num": 152,
+        "name": "Maximum Product Subarray",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/maximum-product-subarray/",
+        "video_id": "lXVy6YWFcRM",
+        "video_url": "https://www.youtube.com/watch?v=lXVy6YWFcRM",
+        "nc_problem_url": "https://neetcode.io/problems/maximum-product-subarray",
+        "nc_solution_url": "https://neetcode.io/solutions/maximum-product-subarray"
+      },
+      {
+        "num": 139,
+        "name": "Word Break",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/word-break/",
+        "video_id": "Sx9NNgInc3A",
+        "video_url": "https://www.youtube.com/watch?v=Sx9NNgInc3A",
+        "nc_problem_url": "https://neetcode.io/problems/word-break",
+        "nc_solution_url": "https://neetcode.io/solutions/word-break"
+      },
+      {
+        "num": 300,
+        "name": "Longest Increasing Subsequence",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "video_id": "cjWnW0hdF1Y",
+        "video_url": "https://www.youtube.com/watch?v=cjWnW0hdF1Y",
+        "nc_problem_url": "https://neetcode.io/problems/longest-increasing-subsequence",
+        "nc_solution_url": "https://neetcode.io/solutions/longest-increasing-subsequence"
+      },
+      {
+        "num": 416,
+        "name": "Partition Equal Subset Sum",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+        "video_id": "IsvocB5BJhw",
+        "video_url": "https://www.youtube.com/watch?v=IsvocB5BJhw",
+        "nc_problem_url": "https://neetcode.io/problems/partition-equal-subset-sum",
+        "nc_solution_url": "https://neetcode.io/solutions/partition-equal-subset-sum"
+      }
+    ]
+  },
+  {
+    "num": "14",
+    "name": "2-D Dynamic Programming",
+    "count": 11,
+    "problems": [
+      {
+        "num": 62,
+        "name": "Unique Paths",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/unique-paths/",
+        "video_id": "IlEsdxuD4lY",
+        "video_url": "https://www.youtube.com/watch?v=IlEsdxuD4lY",
+        "nc_problem_url": "https://neetcode.io/problems/count-paths",
+        "nc_solution_url": "https://neetcode.io/solutions/unique-paths"
+      },
+      {
+        "num": 1143,
+        "name": "Longest Common Subsequence",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/longest-common-subsequence/",
+        "video_id": "Ua0GhsJSlWM",
+        "video_url": "https://www.youtube.com/watch?v=Ua0GhsJSlWM",
+        "nc_problem_url": "https://neetcode.io/problems/longest-common-subsequence",
+        "nc_solution_url": "https://neetcode.io/solutions/longest-common-subsequence"
+      },
+      {
+        "num": 309,
+        "name": "Best Time to Buy and Sell Stock with Cooldown",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+        "video_id": "I7j0F7AHpb8",
+        "video_url": "https://www.youtube.com/watch?v=I7j0F7AHpb8",
+        "nc_problem_url": "https://neetcode.io/problems/buy-and-sell-crypto-with-cooldown",
+        "nc_solution_url": "https://neetcode.io/solutions/best-time-to-buy-and-sell-stock-with-cooldown"
+      },
+      {
+        "num": 518,
+        "name": "Coin Change II",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/coin-change-ii/",
+        "video_id": "Mjy4hd2xgrs",
+        "video_url": "https://www.youtube.com/watch?v=Mjy4hd2xgrs",
+        "nc_problem_url": "https://neetcode.io/problems/coin-change-ii",
+        "nc_solution_url": "https://neetcode.io/solutions/coin-change-ii"
+      },
+      {
+        "num": 494,
+        "name": "Target Sum",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/target-sum/",
+        "video_id": "dwMOrl85Xes",
+        "video_url": "https://www.youtube.com/watch?v=dwMOrl85Xes",
+        "nc_problem_url": "https://neetcode.io/problems/target-sum",
+        "nc_solution_url": "https://neetcode.io/solutions/target-sum"
+      },
+      {
+        "num": 97,
+        "name": "Interleaving String",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/interleaving-string/",
+        "video_id": "3Rw3p9LrgvE",
+        "video_url": "https://www.youtube.com/watch?v=3Rw3p9LrgvE",
+        "nc_problem_url": "https://neetcode.io/problems/interleaving-string",
+        "nc_solution_url": "https://neetcode.io/solutions/interleaving-string"
+      },
+      {
+        "num": 329,
+        "name": "Longest Increasing Path in a Matrix",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
+        "video_id": "wCc_nd-GiEc",
+        "video_url": "https://www.youtube.com/watch?v=wCc_nd-GiEc",
+        "nc_problem_url": "https://neetcode.io/problems/longest-increasing-path-in-matrix",
+        "nc_solution_url": "https://neetcode.io/solutions/longest-increasing-path-in-a-matrix"
+      },
+      {
+        "num": 115,
+        "name": "Distinct Subsequences",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/distinct-subsequences/",
+        "video_id": "-RDzMJ33nx8",
+        "video_url": "https://www.youtube.com/watch?v=-RDzMJ33nx8",
+        "nc_problem_url": "https://neetcode.io/problems/count-subsequences",
+        "nc_solution_url": "https://neetcode.io/solutions/distinct-subsequences"
+      },
+      {
+        "num": 72,
+        "name": "Edit Distance",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/edit-distance/",
+        "video_id": "XYi2-LPrwm4",
+        "video_url": "https://www.youtube.com/watch?v=XYi2-LPrwm4",
+        "nc_problem_url": "https://neetcode.io/problems/edit-distance",
+        "nc_solution_url": "https://neetcode.io/solutions/edit-distance"
+      },
+      {
+        "num": 312,
+        "name": "Burst Balloons",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/burst-balloons/",
+        "video_id": "VFskby7lUbw",
+        "video_url": "https://www.youtube.com/watch?v=VFskby7lUbw",
+        "nc_problem_url": "https://neetcode.io/problems/burst-balloons",
+        "nc_solution_url": "https://neetcode.io/solutions/burst-balloons"
+      },
+      {
+        "num": 10,
+        "name": "Regular Expression Matching",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/regular-expression-matching/",
+        "video_id": "HAA8mgxlov8",
+        "video_url": "https://www.youtube.com/watch?v=HAA8mgxlov8",
+        "nc_problem_url": "https://neetcode.io/problems/regular-expression-matching",
+        "nc_solution_url": "https://neetcode.io/solutions/regular-expression-matching"
+      }
+    ]
+  },
+  {
+    "num": "15",
+    "name": "Greedy",
+    "count": 8,
+    "problems": [
+      {
+        "num": 53,
+        "name": "Maximum Subarray",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/maximum-subarray/",
+        "video_id": "5WZl3MMT0Eg",
+        "video_url": "https://www.youtube.com/watch?v=5WZl3MMT0Eg",
+        "nc_problem_url": "https://neetcode.io/problems/maximum-subarray",
+        "nc_solution_url": "https://neetcode.io/solutions/maximum-subarray"
+      },
+      {
+        "num": 55,
+        "name": "Jump Game",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/jump-game/",
+        "video_id": "Yan0cv2cLy8",
+        "video_url": "https://www.youtube.com/watch?v=Yan0cv2cLy8",
+        "nc_problem_url": "https://neetcode.io/problems/jump-game",
+        "nc_solution_url": "https://neetcode.io/solutions/jump-game"
+      },
+      {
+        "num": 45,
+        "name": "Jump Game II",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/jump-game-ii/",
+        "video_id": "dJ7sWiOoK7g",
+        "video_url": "https://www.youtube.com/watch?v=dJ7sWiOoK7g",
+        "nc_problem_url": "https://neetcode.io/problems/jump-game-ii",
+        "nc_solution_url": "https://neetcode.io/solutions/jump-game-ii"
+      },
+      {
+        "num": 134,
+        "name": "Gas Station",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/gas-station/",
+        "video_id": "lJwbPZGo05A",
+        "video_url": "https://www.youtube.com/watch?v=lJwbPZGo05A",
+        "nc_problem_url": "https://neetcode.io/problems/gas-station",
+        "nc_solution_url": "https://neetcode.io/solutions/gas-station"
+      },
+      {
+        "num": 846,
+        "name": "Hand of Straights",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/hand-of-straights/",
+        "video_id": "amnrMCVd2YI",
+        "video_url": "https://www.youtube.com/watch?v=amnrMCVd2YI",
+        "nc_problem_url": "https://neetcode.io/problems/hand-of-straights",
+        "nc_solution_url": "https://neetcode.io/solutions/hand-of-straights"
+      },
+      {
+        "num": 1899,
+        "name": "Merge Triplets to Form Target Triplet",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/merge-triplets-to-form-target-triplet/",
+        "video_id": "kShkQLQZ9K4",
+        "video_url": "https://www.youtube.com/watch?v=kShkQLQZ9K4",
+        "nc_problem_url": "https://neetcode.io/problems/merge-triplets-to-form-target",
+        "nc_solution_url": "https://neetcode.io/solutions/merge-triplets-to-form-target-triplet"
+      },
+      {
+        "num": 763,
+        "name": "Partition Labels",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/partition-labels/",
+        "video_id": "B7m8UmZE-vw",
+        "video_url": "https://www.youtube.com/watch?v=B7m8UmZE-vw",
+        "nc_problem_url": "https://neetcode.io/problems/partition-labels",
+        "nc_solution_url": "https://neetcode.io/solutions/partition-labels"
+      },
+      {
+        "num": 678,
+        "name": "Valid Parenthesis String",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/valid-parenthesis-string/",
+        "video_id": "QhPdNS143Qg",
+        "video_url": "https://www.youtube.com/watch?v=QhPdNS143Qg",
+        "nc_problem_url": "https://neetcode.io/problems/valid-parenthesis-string",
+        "nc_solution_url": "https://neetcode.io/solutions/valid-parenthesis-string"
+      }
+    ]
+  },
+  {
+    "num": "16",
+    "name": "Intervals",
+    "count": 6,
+    "problems": [
+      {
+        "num": 57,
+        "name": "Insert Interval",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/insert-interval/",
+        "video_id": "A8NUOmlwOlM",
+        "video_url": "https://www.youtube.com/watch?v=A8NUOmlwOlM",
+        "nc_problem_url": "https://neetcode.io/problems/insert-new-interval",
+        "nc_solution_url": "https://neetcode.io/solutions/insert-interval"
+      },
+      {
+        "num": 56,
+        "name": "Merge Intervals",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/merge-intervals/",
+        "video_id": "44H3cEC2fFM",
+        "video_url": "https://www.youtube.com/watch?v=44H3cEC2fFM",
+        "nc_problem_url": "https://neetcode.io/problems/merge-intervals",
+        "nc_solution_url": "https://neetcode.io/solutions/merge-intervals"
+      },
+      {
+        "num": 435,
+        "name": "Non-overlapping Intervals",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/non-overlapping-intervals/",
+        "video_id": "nONCGxWoUfM",
+        "video_url": "https://www.youtube.com/watch?v=nONCGxWoUfM",
+        "nc_problem_url": "https://neetcode.io/problems/non-overlapping-intervals",
+        "nc_solution_url": "https://neetcode.io/solutions/non-overlapping-intervals"
+      },
+      {
+        "num": 252,
+        "name": "Meeting Rooms",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/meeting-rooms/",
+        "video_id": "PaJxqZVPhbg",
+        "video_url": "https://www.youtube.com/watch?v=PaJxqZVPhbg",
+        "nc_problem_url": "https://neetcode.io/problems/meeting-schedule",
+        "nc_solution_url": "https://neetcode.io/solutions/meeting-rooms"
+      },
+      {
+        "num": 253,
+        "name": "Meeting Rooms II",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/meeting-rooms-ii/",
+        "video_id": "FdzJmTCVyJU",
+        "video_url": "https://www.youtube.com/watch?v=FdzJmTCVyJU",
+        "nc_problem_url": "https://neetcode.io/problems/meeting-schedule-ii",
+        "nc_solution_url": "https://neetcode.io/solutions/meeting-rooms-ii"
+      },
+      {
+        "num": 1851,
+        "name": "Minimum Interval to Include Each Query",
+        "diff": "Hard",
+        "lc_url": "https://leetcode.com/problems/minimum-interval-to-include-each-query/",
+        "video_id": "5hQ5WWW5awQ",
+        "video_url": "https://www.youtube.com/watch?v=5hQ5WWW5awQ",
+        "nc_problem_url": "https://neetcode.io/problems/minimum-interval-including-query",
+        "nc_solution_url": "https://neetcode.io/solutions/minimum-interval-to-include-each-query"
+      }
+    ]
+  },
+  {
+    "num": "17",
+    "name": "Math & Geometry",
+    "count": 8,
+    "problems": [
+      {
+        "num": 48,
+        "name": "Rotate Image",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/rotate-image/",
+        "video_id": "fMSJSS7eO1w",
+        "video_url": "https://www.youtube.com/watch?v=fMSJSS7eO1w",
+        "nc_problem_url": "https://neetcode.io/problems/rotate-matrix",
+        "nc_solution_url": "https://neetcode.io/solutions/rotate-image"
+      },
+      {
+        "num": 54,
+        "name": "Spiral Matrix",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/spiral-matrix/",
+        "video_id": "BJnMZNwUk1M",
+        "video_url": "https://www.youtube.com/watch?v=BJnMZNwUk1M",
+        "nc_problem_url": "https://neetcode.io/problems/spiral-matrix",
+        "nc_solution_url": "https://neetcode.io/solutions/spiral-matrix"
+      },
+      {
+        "num": 73,
+        "name": "Set Matrix Zeroes",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/set-matrix-zeroes/",
+        "video_id": "T41rL0L3Pnw",
+        "video_url": "https://www.youtube.com/watch?v=T41rL0L3Pnw",
+        "nc_problem_url": "https://neetcode.io/problems/set-zeroes-in-matrix",
+        "nc_solution_url": "https://neetcode.io/solutions/set-matrix-zeroes"
+      },
+      {
+        "num": 202,
+        "name": "Happy Number",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/happy-number/",
+        "video_id": "ljz85bxOYJ0",
+        "video_url": "https://www.youtube.com/watch?v=ljz85bxOYJ0",
+        "nc_problem_url": "https://neetcode.io/problems/non-cyclical-number",
+        "nc_solution_url": "https://neetcode.io/solutions/happy-number"
+      },
+      {
+        "num": 66,
+        "name": "Plus One",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/plus-one/",
+        "video_id": "jIaA8boiG1s",
+        "video_url": "https://www.youtube.com/watch?v=jIaA8boiG1s",
+        "nc_problem_url": "https://neetcode.io/problems/plus-one",
+        "nc_solution_url": "https://neetcode.io/solutions/plus-one"
+      },
+      {
+        "num": 50,
+        "name": "Pow(x, n)",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/powx-n/",
+        "video_id": "g9YQyYi4IQQ",
+        "video_url": "https://www.youtube.com/watch?v=g9YQyYi4IQQ",
+        "nc_problem_url": "https://neetcode.io/problems/pow-x-n",
+        "nc_solution_url": "https://neetcode.io/solutions/powx-n"
+      },
+      {
+        "num": 43,
+        "name": "Multiply Strings",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/multiply-strings/",
+        "video_id": "1vZswirL8Y8",
+        "video_url": "https://www.youtube.com/watch?v=1vZswirL8Y8",
+        "nc_problem_url": "https://neetcode.io/problems/multiply-strings",
+        "nc_solution_url": "https://neetcode.io/solutions/multiply-strings"
+      },
+      {
+        "num": 2013,
+        "name": "Detect Squares",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/detect-squares/",
+        "video_id": "bahebearrDc",
+        "video_url": "https://www.youtube.com/watch?v=bahebearrDc",
+        "nc_problem_url": "https://neetcode.io/problems/count-squares",
+        "nc_solution_url": "https://neetcode.io/solutions/detect-squares"
+      }
+    ]
+  },
+  {
+    "num": "18",
+    "name": "Bit Manipulation",
+    "count": 7,
+    "problems": [
+      {
+        "num": 136,
+        "name": "Single Number",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/single-number/",
+        "video_id": "qMPX1AOa83k",
+        "video_url": "https://www.youtube.com/watch?v=qMPX1AOa83k",
+        "nc_problem_url": "https://neetcode.io/problems/single-number",
+        "nc_solution_url": "https://neetcode.io/solutions/single-number"
+      },
+      {
+        "num": 191,
+        "name": "Number of 1 Bits",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/number-of-1-bits/",
+        "video_id": "5Km3utixwZs",
+        "video_url": "https://www.youtube.com/watch?v=5Km3utixwZs",
+        "nc_problem_url": "https://neetcode.io/problems/number-of-one-bits",
+        "nc_solution_url": "https://neetcode.io/solutions/number-of-1-bits"
+      },
+      {
+        "num": 338,
+        "name": "Counting Bits",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/counting-bits/",
+        "video_id": "RyBM56RIWrM",
+        "video_url": "https://www.youtube.com/watch?v=RyBM56RIWrM",
+        "nc_problem_url": "https://neetcode.io/problems/counting-bits",
+        "nc_solution_url": "https://neetcode.io/solutions/counting-bits"
+      },
+      {
+        "num": 190,
+        "name": "Reverse Bits",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/reverse-bits/",
+        "video_id": "UcoN6UjAI64",
+        "video_url": "https://www.youtube.com/watch?v=UcoN6UjAI64",
+        "nc_problem_url": "https://neetcode.io/problems/reverse-bits",
+        "nc_solution_url": "https://neetcode.io/solutions/reverse-bits"
+      },
+      {
+        "num": 268,
+        "name": "Missing Number",
+        "diff": "Easy",
+        "lc_url": "https://leetcode.com/problems/missing-number/",
+        "video_id": "WnPLSRLSANE",
+        "video_url": "https://www.youtube.com/watch?v=WnPLSRLSANE",
+        "nc_problem_url": "https://neetcode.io/problems/missing-number",
+        "nc_solution_url": "https://neetcode.io/solutions/missing-number"
+      },
+      {
+        "num": 371,
+        "name": "Sum of Two Integers",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/sum-of-two-integers/",
+        "video_id": "gVUrDV4tZfY",
+        "video_url": "https://www.youtube.com/watch?v=gVUrDV4tZfY",
+        "nc_problem_url": "https://neetcode.io/problems/sum-of-two-integers",
+        "nc_solution_url": "https://neetcode.io/solutions/sum-of-two-integers"
+      },
+      {
+        "num": 7,
+        "name": "Reverse Integer",
+        "diff": "Medium",
+        "lc_url": "https://leetcode.com/problems/reverse-integer/",
+        "video_id": "HAgLH58IgJQ",
+        "video_url": "https://www.youtube.com/watch?v=HAgLH58IgJQ",
+        "nc_problem_url": "https://neetcode.io/problems/reverse-integer",
+        "nc_solution_url": "https://neetcode.io/solutions/reverse-integer"
+      }
+    ]
+  }
+]

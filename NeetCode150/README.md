@@ -41,9 +41,9 @@ python verify_all_150.py
 
 ## 📖 Additional Resources
 
-- [**Problem Tracker**](neetcode_150_tracker.md) – Complete problem list with LeetCode links and difficulty ratings
+- [**Problem Tracker**](neetcode_150_tracker.md) – Complete problem list with LeetCode links, difficulty ratings, and official NeetCode YouTube video walkthroughs
 - [**Study Plan**](neetcode_150_study_plan.md) – Phase-wise roadmap with milestones and verification protocols
-- [**Study Guides**](study_guides/) – Consolidated directory of all 18 module study guides
+- [**Study Guides**](study_guides/) – Consolidated directory of all 18 module study guides with embedded video solutions
 
 ---
 

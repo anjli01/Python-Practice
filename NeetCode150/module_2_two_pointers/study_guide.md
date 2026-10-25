@@ -5,6 +5,7 @@ Two Pointers is one of the most fundamental algorithmic paradigms. It leverages 
 ---
 
 ## 1. Valid Palindrome (LeetCode 125) - Easy
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/valid-palindrome/) • [NeetCode Problem](https://neetcode.io/problems/is-palindrome) • [NeetCode Solution](https://neetcode.io/solutions/valid-palindrome) • [YouTube Video](https://www.youtube.com/watch?v=jJXJ16kPFWg)
 * **Pattern**: Inward-Converging Pointers / In-Place Filtering
 * **Core Concept**:
   A palindrome reads identically forwards and backwards. Two pointers placed at opposing ends converge toward the center, verifying symmetry.
@@ -20,6 +21,7 @@ Two Pointers is one of the most fundamental algorithmic paradigms. It leverages 
 ---
 
 ## 2. Two Sum II - Input Array Is Sorted (LeetCode 167) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) • [NeetCode Problem](https://neetcode.io/problems/two-integer-sum-ii) • [NeetCode Solution](https://neetcode.io/solutions/two-sum-ii-input-array-is-sorted) • [YouTube Video](https://www.youtube.com/watch?v=cQ1Oz4ckceM)
 * **Pattern**: Monotonic Squeeze via Sorted Property
 * **Core Concept**:
   In a sorted array, the sum of values at opposite ends exhibits a strictly monotonic behavior:
@@ -37,6 +39,7 @@ Two Pointers is one of the most fundamental algorithmic paradigms. It leverages 
 ---
 
 ## 3. 3Sum (LeetCode 15) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/3sum/) • [NeetCode Problem](https://neetcode.io/problems/three-integer-sum) • [NeetCode Solution](https://neetcode.io/solutions/3sum) • [YouTube Video](https://www.youtube.com/watch?v=jzZsG8n2R9A)
 * **Pattern**: Sort + Fixed Anchor + Two-Pointer Squeeze (with Deduplication)
 * **Core Concept**:
   Transform a 3-variable problem ($a + b + c = 0$) into the 2-variable Two Sum II problem: for each fixed $a$, find $b + c = -a$.
@@ -55,6 +58,7 @@ Two Pointers is one of the most fundamental algorithmic paradigms. It leverages 
 ---
 
 ## 4. Container With Most Water (LeetCode 11) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/container-with-most-water/) • [NeetCode Problem](https://neetcode.io/problems/max-water-container) • [NeetCode Solution](https://neetcode.io/solutions/container-with-most-water) • [YouTube Video](https://www.youtube.com/watch?v=UuiTKBwPgAo)
 * **Pattern**: Greedy Two Pointers (Bottleneck Elimination)
 * **Core Concept**:
   $\text{Area} = (\text{right} - \text{left}) \times \min(\text{height}[\text{left}], \text{height}[\text{right}])$.
@@ -70,6 +74,7 @@ Two Pointers is one of the most fundamental algorithmic paradigms. It leverages 
 ---
 
 ## 5. Trapping Rain Water (LeetCode 42) - Hard
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/trapping-rain-water/) • [NeetCode Problem](https://neetcode.io/problems/trapping-rain-water) • [NeetCode Solution](https://neetcode.io/solutions/trapping-rain-water) • [YouTube Video](https://www.youtube.com/watch?v=ZI2z5pq0TqA)
 * **Pattern**: Two Pointers with Independent Bounding Maxima
 * **Core Concept**:
   Water trapped directly above bar $i$ is:

@@ -5,6 +5,7 @@ Backtracking is **exhaustive state-space exploration with systematic pruning**. 
 ---
 
 ## 1. Subsets (LeetCode 78) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/subsets/) • [NeetCode Problem](https://neetcode.io/problems/subsets) • [NeetCode Solution](https://neetcode.io/solutions/subsets) • [YouTube Video](https://www.youtube.com/watch?v=REOH22Xwdkk)
 * **Pattern**: Pick / Don't-Pick Binary Decision Tree
 * **Core Concept**:
   For each element, branch into two decisions: include `nums[i]` or exclude `nums[i]`. Total leaves = $2^n$.
@@ -13,6 +14,7 @@ Backtracking is **exhaustive state-space exploration with systematic pruning**. 
 ---
 
 ## 2. Combination Sum (LeetCode 39) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/combination-sum/) • [NeetCode Problem](https://neetcode.io/problems/combination-target-sum) • [NeetCode Solution](https://neetcode.io/solutions/combination-sum) • [YouTube Video](https://www.youtube.com/watch?v=GBKI9VSKdGg)
 * **Pattern**: Unbounded Choice Backtracking
 * **Core Concept**:
   At index $i$, branch 1 includes `candidates[i]` and recurses on $i$ again (allowing reuse). Branch 2 skips `candidates[i]` and moves to $i + 1$.
@@ -21,6 +23,7 @@ Backtracking is **exhaustive state-space exploration with systematic pruning**. 
 ---
 
 ## 3. Permutations (LeetCode 46) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/permutations/) • [NeetCode Problem](https://neetcode.io/problems/permutations) • [NeetCode Solution](https://neetcode.io/solutions/permutations) • [YouTube Video](https://www.youtube.com/watch?v=FZe0UqISmUw)
 * **Pattern**: Remaining Element Permutation Tree
 * **Core Concept**:
   Choose an unused number for the current position, recurse on the remaining $n - 1$ elements, and backtrack.
@@ -29,6 +32,7 @@ Backtracking is **exhaustive state-space exploration with systematic pruning**. 
 ---
 
 ## 4. Subsets II (LeetCode 90) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/subsets-ii/) • [NeetCode Problem](https://neetcode.io/problems/subsets-ii) • [NeetCode Solution](https://neetcode.io/solutions/subsets-ii) • [YouTube Video](https://www.youtube.com/watch?v=Vn2v6ajA7U0)
 * **Pattern**: Sort + Duplicate-Skipping Branch
 * **Core Concept**:
   Sort the array first. When skipping an element, skip ALL identical consecutive duplicates:
@@ -38,6 +42,7 @@ Backtracking is **exhaustive state-space exploration with systematic pruning**. 
 ---
 
 ## 5. Combination Sum II (LeetCode 40) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/combination-sum-ii/) • [NeetCode Problem](https://neetcode.io/problems/combination-target-sum-ii) • [NeetCode Solution](https://neetcode.io/solutions/combination-sum-ii) • [YouTube Video](https://www.youtube.com/watch?v=FOyRpNUSFeA)
 * **Pattern**: Loop-Level Deduplication
 * **Core Concept**:
   Sort the array. Inside the candidate loop:
@@ -48,6 +53,7 @@ Backtracking is **exhaustive state-space exploration with systematic pruning**. 
 ---
 
 ## 6. Word Search (LeetCode 79) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/word-search/) • [NeetCode Problem](https://neetcode.io/problems/search-for-word) • [NeetCode Solution](https://neetcode.io/solutions/word-search) • [YouTube Video](https://www.youtube.com/watch?v=pfiQ_PS1g8E)
 * **Pattern**: 2D Grid DFS with In-Place Visited Masking
 * **Core Concept**:
   Explore all 4 directions. Mark `board[r][c] = '#'` before recursing, and restore `board[r][c] = original_char` immediately after.
@@ -56,6 +62,7 @@ Backtracking is **exhaustive state-space exploration with systematic pruning**. 
 ---
 
 ## 7. Palindrome Partitioning (LeetCode 131) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/palindrome-partitioning/) • [NeetCode Problem](https://neetcode.io/problems/palindrome-partitioning) • [NeetCode Solution](https://neetcode.io/solutions/palindrome-partitioning) • [YouTube Video](https://www.youtube.com/watch?v=3jvWodd7ht0)
 * **Pattern**: Prefix Palindrome Split
 * **Core Concept**:
   Iterate partition cut index from `start` to `end`. If substring `s[start:end+1]` is a palindrome, recurse on remaining substring `end + 1`.
@@ -64,6 +71,7 @@ Backtracking is **exhaustive state-space exploration with systematic pruning**. 
 ---
 
 ## 8. Letter Combinations of a Phone Number (LeetCode 17) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) • [NeetCode Problem](https://neetcode.io/problems/combinations-of-a-phone-number) • [NeetCode Solution](https://neetcode.io/solutions/letter-combinations-of-a-phone-number) • [YouTube Video](https://www.youtube.com/watch?v=0snEunUacZY)
 * **Pattern**: Cartesian Product Tree
 * **Core Concept**:
   Map digit to letter choices. At index `idx`, loop over all letters assigned to `digits[idx]` and recurse on `idx + 1`.
@@ -72,6 +80,7 @@ Backtracking is **exhaustive state-space exploration with systematic pruning**. 
 ---
 
 ## 9. N-Queens (LeetCode 51) - Hard
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/n-queens/) • [NeetCode Problem](https://neetcode.io/problems/n-queens) • [NeetCode Solution](https://neetcode.io/solutions/n-queens) • [YouTube Video](https://www.youtube.com/watch?v=Ph95IHmRp5M)
 * **Pattern**: Diagonal Hash Sets
 * **Core Concept**:
   Place one queen per row. To detect conflicts in $O(1)$:

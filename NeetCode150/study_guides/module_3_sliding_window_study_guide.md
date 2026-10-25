@@ -5,6 +5,7 @@ Sliding Window is the premier technique for analyzing contiguous sub-arrays or s
 ---
 
 ## 1. Best Time to Buy and Sell Stock (LeetCode 121) - Easy
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) • [NeetCode Problem](https://neetcode.io/problems/buy-and-sell-crypto) • [NeetCode Solution](https://neetcode.io/solutions/best-time-to-buy-and-sell-stock) • [YouTube Video](https://www.youtube.com/watch?v=1pkOgXD63yU)
 * **Pattern**: One-Pass Running Minimum (2-Pointer Window)
 * **Core Concept**:
   You must buy before you sell. Maintain the lowest historical price encountered so far; the maximum profit obtainable on any day is $\text{price} - \text{min\_price}$.
@@ -19,6 +20,7 @@ Sliding Window is the premier technique for analyzing contiguous sub-arrays or s
 ---
 
 ## 2. Longest Substring Without Repeating Characters (LeetCode 3) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) • [NeetCode Problem](https://neetcode.io/problems/longest-substring-without-duplicates) • [NeetCode Solution](https://neetcode.io/solutions/longest-substring-without-repeating-characters) • [YouTube Video](https://www.youtube.com/watch?v=wiGpQwVHdE0)
 * **Pattern**: Dynamic Window with Last-Seen Index Map
 * **Core Concept**:
   Maintain a window $[L, R]$ of unique characters. When $s[R]$ duplicates a character already in the window, fast-forward $L$ directly to $\text{last\_seen}[s[R]] + 1$.
@@ -38,6 +40,7 @@ Sliding Window is the premier technique for analyzing contiguous sub-arrays or s
 ---
 
 ## 3. Longest Repeating Character Replacement (LeetCode 424) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/) • [NeetCode Problem](https://neetcode.io/problems/longest-repeating-substring-with-replacement) • [NeetCode Solution](https://neetcode.io/solutions/longest-repeating-character-replacement) • [YouTube Video](https://www.youtube.com/watch?v=gqXU1UyA8pk)
 * **Pattern**: Frequency Budget Window
 * **Core Concept**:
   In any window of size $(R - L + 1)$, the number of replacements needed to make all characters identical is:
@@ -54,6 +57,7 @@ Sliding Window is the premier technique for analyzing contiguous sub-arrays or s
 ---
 
 ## 4. Permutation in String (LeetCode 567) - Medium
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/permutation-in-string/) • [NeetCode Problem](https://neetcode.io/problems/permutation-string) • [NeetCode Solution](https://neetcode.io/solutions/permutation-in-string) • [YouTube Video](https://www.youtube.com/watch?v=UbyhOgBN834)
 * **Pattern**: Fixed-Size Window with Match Count Tracking
 * **Core Concept**:
   A permutation of $s_1$ inside $s_2$ must have length exactly equal to $|s_1|$. Slide a window of fixed length $|s_1|$ across $s_2$.
@@ -68,6 +72,7 @@ Sliding Window is the premier technique for analyzing contiguous sub-arrays or s
 ---
 
 ## 5. Minimum Window Substring (LeetCode 76) - Hard
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/minimum-window-substring/) • [NeetCode Problem](https://neetcode.io/problems/minimum-window-with-characters) • [NeetCode Solution](https://neetcode.io/solutions/minimum-window-substring) • [YouTube Video](https://www.youtube.com/watch?v=jSto0O4AJbM)
 * **Pattern**: Variable Window (Expand to Satisfy, Contract to Minimize)
 * **Core Concept**:
   1. Expand $R$ until all character frequency requirements of $t$ are satisfied (`have == need`).
@@ -83,6 +88,7 @@ Sliding Window is the premier technique for analyzing contiguous sub-arrays or s
 ---
 
 ## 6. Sliding Window Maximum (LeetCode 239) - Hard
+* **Quick Links**: [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) • [NeetCode Problem](https://neetcode.io/problems/sliding-window-maximum) • [NeetCode Solution](https://neetcode.io/solutions/sliding-window-maximum) • [YouTube Video](https://www.youtube.com/watch?v=DfljaUwZsOk)
 * **Pattern**: Monotonic Decreasing Deque
 * **Core Concept**:
   Maintain a double-ended queue (`deque`) storing **indices** such that the values corresponding to these indices are in strictly decreasing order.

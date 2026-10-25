@@ -29,8 +29,9 @@ Intermediate-to-advanced Python concepts:
 
 ### 3. [NeetCode 150](NeetCode150/)
 Complete, verified implementations of all **150 / 150 NeetCode problems** across **18 categories**:
-- 📚 **18 In-Depth Study Guides** covering core concepts, patterns, interview tips & tricks
+- 📚 **18 In-Depth Study Guides** covering core concepts, patterns, interview tips & tricks, and embedded video solution links
 - 💡 **Optimal Solutions** with clean Python 3 implementations and time/space complexity analyses
+- 🎥 **100% Video Coverage** with verified YouTube solution links for all 150 problems (`python NeetCode150/verify_video_links.py`)
 - 🧪 **Comprehensive Automated Unit Tests** with edge cases
 - 🏆 **Master Verification Runner** (`python NeetCode150/verify_all_150.py`) verifying all 150 problems
 
@@ -40,5 +41,9 @@ Complete, verified implementations of all **150 / 150 NeetCode problems** across
 
 ```bash
 cd NeetCode150
+# Verify all algorithm solutions
 python verify_all_150.py
+
+# Verify all video solution links
+python verify_video_links.py
 ```
